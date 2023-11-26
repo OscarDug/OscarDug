@@ -1,5 +1,5 @@
 ### Hola Mundo 👋
-![This Is javaScript](https://github.com/OscarDug/youtube-git/tree/main/Recursos)
+![This Is javaScript](https://github.com/OscarDug/youtube-git/blob/main/Recursos/java.jpeg)
 
 <!--
 **OscarDug/OscarDug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
